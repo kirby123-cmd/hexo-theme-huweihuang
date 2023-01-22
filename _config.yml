@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 胡伟煌 
-subtitle: 个人博客
-author: 胡伟煌
+title: KIRI
+subtitle: WEAVING IMAGINATIONS INTO REALITY
+author: kiri
 language:
 timezone:
 
@@ -21,8 +21,8 @@ permalink_defaults:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: 胡伟煌 | Blog
-email: e-mail_address
+SEOTitle: kiri| Blog
+email: kirubaselvi40805@gmail.com
 description: ""
 keyword: ""
 header-img: /img/header_img/home.jpg
@@ -64,7 +64,7 @@ ga_domain: yoursite
 
 # Sidebar settings
 sidebar: true                       # whether or not using Sidebar.
-sidebar-about-description: "Stay hungry,Stay foolish"
+sidebar-about-description: "I got this, I'm truly fine"
 sidebar-avatar: /img/avatar/ironman.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - featured-tags
@@ -89,16 +89,16 @@ featured-condition-size: 0              # A tag will be featured if the size of 
 ## Friends
 friends: [
     {
-        title: "CSDN Blog 胡伟煌",
-        href: "http://blog.csdn.net/huwh_"
+        title: "Fast Ai",
+        href: "https://course.fast.ai/"
     },
     {
-        title: "DockOne 胡伟煌",
-        href: "http://dockone.io/people/胡伟煌"
+        title: "Learn Japanese",
+        href: "https://marshallyin.com/welcome/"
     },
     {
-        title: "阿里云栖社区 胡伟煌",
-        href: "https://yq.aliyun.com/u/huweihuang"
+        title: "Follow Naval ",
+        href: "https://twitter.com/naval"
     }
 ]
 
@@ -231,6 +231,6 @@ sitemap:
 # branch: master
 deploy:
   type: git
-  repository: https://github.com/huweihuang/hexo-theme-huweihuang
+  repository: https://github.com/kirby123-cmd/themes
   branch: gh-pages
   message: Update CNAME
